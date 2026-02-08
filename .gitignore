@@ -51,4 +51,11 @@ CodeCoverage/
 # NUnit
 *.VisualState.xml
 TestResult.xml
-nunit-*.xml
+nunit-*.xml.
+
+.idea/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
